@@ -1,4 +1,4 @@
-register, log in, gmail verification using firebase
+register, log in, gmail verification using firebase.
 
 
 
